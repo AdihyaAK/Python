@@ -1,7 +1,1 @@
-# Python-Tasks
-Task 1 - Python basic programs
-Task 2 - Python functions(using map, reduce, filter, lambda)
-Task 3 - Python OOPs
-Task 4 - Python Regex
-Task 5 - Python Numpy & Pandas 
-Task 6 - Matplotlib
+This project is designed to highlight the versatility and power of Python, one of the most popular programming languages in the world. Python is renowned for its readability, simplicity, and broad applicability, making it an excellent choice for a wide range of programming tasks, from web development to data analysis
